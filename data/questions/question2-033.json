@@ -1,0 +1,3 @@
+{
+"robots":[{"id":0, "capacity":10},{"id":1, "capacity":15}],
+"orders":[{"id":1,"r_address":[93,82],"u_address":[77,70],"start_time":1100,"end_time":1300},{"id":2,"r_address":[94,82],"u_address":[77,75],"start_time":1100,"end_time":1230},{"id":3,"r_address":[120,2],"u_address":[88,53],"start_time":1130,"end_time":1200},{"id":4,"r_address":[76,76],"u_address":[77,75],"start_time":1130,"end_time":1300},{"id":5,"r_address":[12,100],"u_address":[20,67],"start_time":1115,"end_time":1140},{"id":6,"r_address":[43,25],"u_address":[68,30],"start_time":1100,"end_time":1130},{"id":7,"r_address":[93,82],"u_address":[77,70],"start_time":1225,"end_time":1255},{"id":8,"r_address":[93,82],"u_address":[77,70],"start_time":1100,"end_time":1250}]}

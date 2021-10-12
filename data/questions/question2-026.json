@@ -1,0 +1,8 @@
+{
+"robots":[{"id":0, "capacity":5},{"id":1, "capacity":5}],
+"orders":[{"id":1,"r_address":[80,75],"u_address":[76,76],"start_time":1100,"end_time":1130},
+{"id":2,"r_address":[89,138],"u_address":[150,130],"start_time":1130,"end_time":1200},
+{"id":3,"r_address":[149,87],"u_address":[130,135],"start_time":1130,"end_time":1200},
+{"id":4,"r_address":[20,25],"u_address":[8,75],"start_time":1100,"end_time":1130},
+{"id":5,"r_address":[20,25],"u_address":[72,13],"start_time":1100,"end_time":1130},
+{"id":6,"r_address":[46,54],"u_address":[66,67],"start_time":1100,"end_time":1130}]}

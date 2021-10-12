@@ -1,0 +1,35 @@
+{
+	"robots":[
+		{
+			"id":50,
+			"capacity":100
+		},
+		{
+			"id":32,
+			"capacity":50
+		}
+	],
+	"orders":[
+		{
+			"id":1,
+			"r_address":[180,80],
+			"u_address":[70,70],
+			"start_time":1100,
+			"end_time":1130
+		},
+		{
+			"id":2,
+			"r_address":[20,20],
+			"u_address":[130,130],
+			"start_time":1130,
+			"end_time":1230
+		},
+		{
+			"id":3,
+			"r_address":[100,20],
+			"u_address":[20,100],
+			"start_time":1230,
+			"end_time":1300
+		}
+	]
+}

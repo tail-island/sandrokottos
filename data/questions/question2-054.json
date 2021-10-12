@@ -1,0 +1,58 @@
+{
+  "robots": [
+    { "id": 0, "capacity": 1 },
+    { "id": 1, "capacity": 5 },
+    { "id": 2, "capacity": 2 }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "r_address": [93, 82],
+      "u_address": [77, 70],
+      "start_time": 1100,
+      "end_time": 1200
+    },
+    {
+      "id": 2,
+      "r_address": [68, 70],
+      "u_address": [85, 65],
+      "start_time": 1100,
+      "end_time": 1130
+    },
+    {
+      "id": 3,
+      "r_address": [89, 54],
+      "u_address": [64, 49],
+      "start_time": 1200,
+      "end_time": 1300
+    },
+    {
+      "id": 4,
+      "r_address": [91, 72],
+      "u_address": [85, 77],
+      "start_time": 1200,
+      "end_time": 1230
+    },
+    {
+      "id": 5,
+      "r_address": [50, 39],
+      "u_address": [92, 64],
+      "start_time": 1115,
+      "end_time": 1150
+    },
+    {
+      "id": 6,
+      "r_address": [74, 74],
+      "u_address": [68, 41],
+      "start_time": 1100,
+      "end_time": 1145
+    },
+    {
+      "id": 7,
+      "r_address": [31, 52],
+      "u_address": [65, 77],
+      "start_time": 1100,
+      "end_time": 1230
+    }
+  ]
+}

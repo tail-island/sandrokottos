@@ -1,0 +1,7 @@
+{
+    "robots":[{"id":0, "capacity":10},{"id":1, "capacity":10},{"id":2, "capacity":10}],
+    "orders":[{"id":1,"r_address":[28,88],"u_address":[20,54],"start_time":1107,"end_time":1157},
+    {"id":2,"r_address":[0,0],"u_address":[150,150],"start_time":1130,"end_time":1200},
+    {"id":3,"r_address":[1,26],"u_address":[150,149],"start_time":1100,"end_time":1130}
+    ]
+    }
