@@ -7,7 +7,7 @@ from random import randint
 def generate_robots():
     result = []
 
-    for i in range(500 + 1):
+    for i in range(350):
         result.append({'id': i, 'capacity': 30})
 
     return result
