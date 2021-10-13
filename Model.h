@@ -316,7 +316,7 @@ public:
               return Result;
             }());
 
-        // 積み込み〜配送までの時間をコストに追加します。
+        // 配送件数と積み込み〜配送までの時間をコストに追加します。
 
         Result.AddTerm(Cost1, (150 - 2) * static_cast<int>(std::size(Route) / 2));
         Result.AddTerm(Cost2, 1);
