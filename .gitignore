@@ -1,6 +1,7 @@
 build/
-or-tools-v9.0
-or-tools-v9.1
+or-tools-v9.0/
+or-tools-v9.1/
 data/answers/*
+.vscode/
 
 !.gitkeep
